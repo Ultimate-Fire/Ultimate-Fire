@@ -1,8 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, My name is Connor.</h1>
+<h3 align="center">I am a new software engineer from the UK, looking to learn and evolve.</h3>
 
+
+I started coding after being enrolled in a skills bootcamp by HyperionDev, learning to code in Python. After completing, I'm looking to continue learning with new projects.
 <!--
 **Ultimate-Fire/Ultimate-Fire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
