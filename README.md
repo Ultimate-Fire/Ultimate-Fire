@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Connor.</h1>
-<h3 align="center">I am a new software engineer from the UK, looking to learn and evolve.</h3>
+<h3 align="center">I am an upcoming software engineer from the UK, looking to learn and evolve.</h3>
 
 
 I started coding after being enrolled in a skills bootcamp by HyperionDev, learning to code in Python. After completing, I'm looking to continue learning with new projects.
